@@ -18,15 +18,9 @@ A single interface function allows selection of the desired method and computati
 
 ---
 
-## Differential Equation (Example)
+## Language
 
-The differential equation currently implemented in the program is:
-
-\[
-\frac{dy}{dx} = 2xy
-\]
-
-The analytical solution of this equation is:
+Language Used: C++
 
 \[
 y = e^{x^2} + C
