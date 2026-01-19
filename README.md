@@ -22,8 +22,4 @@ A single interface function allows selection of the desired method and computati
 
 Language Used: C++
 
-\[
-y = e^{x^2} + C
-\]
-
-The differential equation can be easily modified to solve other first-order ODEs.
+## Thanks a lot for visiting.
