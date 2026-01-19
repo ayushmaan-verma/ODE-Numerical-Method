@@ -22,4 +22,6 @@ A single interface function allows selection of the desired method and computati
 
 Language Used: C++
 
+---
+
 ## Thanks a lot for visiting.
