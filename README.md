@@ -1,10 +1,6 @@
 # Numerical Solution of First-Order Differential Equations in C++
 
-This project presents a C++ implementation of standard numerical methods for solving first-order ordinary differential equations (ODEs) of the form
-
-\[
-\frac{dy}{dx} = f(x, y)
-\]
+This project presents a C++ implementation of standard numerical methods for solving first-order ordinary differential equations (ODEs).
 
 The program is designed for educational and computational purposes, allowing users to compare the accuracy of different numerical techniques.
 
